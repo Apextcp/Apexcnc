@@ -1,2 +1,5 @@
 pip install asciimatics
 pip install pystyle
+ulimit -n 999999
+chmod 777 *
+python3 main.py
